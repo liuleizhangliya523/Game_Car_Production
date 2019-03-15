@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lightRed_2",
+    "texture": "6d4e431e-a1a6-4585-90a4-10cd2e980f8b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      4,
+      4
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      4,
+      4
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

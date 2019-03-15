@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "coin_lock",
+    "texture": "0072bfbd-0382-4d89-a075-cee6a17e2dc5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      37,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      37,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

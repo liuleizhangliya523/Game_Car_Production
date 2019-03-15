@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "eventbg",
+    "texture": "cfec3f44-ba8b-448f-bf1e-edd824e7291c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      550,
+      42
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      550,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

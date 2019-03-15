@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "a75da803-da37-4a98-93c0-172d0e2717c3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "market_suv": {
+      "ver": "1.0.3",
+      "uuid": "d31217eb-9d4f-45bc-886a-872b8bd85e47",
+      "rawTextureUuid": "a75da803-da37-4a98-93c0-172d0e2717c3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 140,
+      "height": 97,
+      "rawWidth": 140,
+      "rawHeight": 97,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

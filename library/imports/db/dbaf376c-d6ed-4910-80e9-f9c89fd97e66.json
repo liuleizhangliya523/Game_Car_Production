@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "odds",
+    "texture": "ce61e472-c9c7-4f90-a58d-9de7ba053889",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      108,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      108,
+      48
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

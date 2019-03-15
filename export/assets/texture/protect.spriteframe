@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "protect",
+    "texture": "assets/texture/Game-1.png",
+    "rect": [
+      228,
+      616,
+      140,
+      97
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      97
+    ]
+  }
+}

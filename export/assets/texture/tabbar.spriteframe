@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tabbar",
+    "texture": "assets/texture/Game-1.png",
+    "rect": [
+      2,
+      318,
+      375,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      375,
+      40
+    ],
+    "capInsets": [
+      101,
+      28,
+      100,
+      7
+    ]
+  }
+}

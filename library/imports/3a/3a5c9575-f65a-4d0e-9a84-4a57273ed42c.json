@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "investment_1",
+    "texture": "e135b958-71e7-4c30-9eee-59c2eb061de0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      162,
+      92
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      162,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

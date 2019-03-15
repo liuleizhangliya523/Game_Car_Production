@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "odds",
+    "texture": "assets/texture/Game-1.png",
+    "rect": [
+      126,
+      532,
+      100,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      40
+    ]
+  }
+}

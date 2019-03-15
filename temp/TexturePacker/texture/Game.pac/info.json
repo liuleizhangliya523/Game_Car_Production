@@ -1,0 +1,61 @@
+{
+  "packedTextures": [
+    {
+      "path": "C:\\Projects\\Game_Car_Production\\temp\\TexturePacker\\texture\\Game.pac/Game-1.png",
+      "name": "Game-1.png",
+      "size": "512x512"
+    },
+    {
+      "path": "C:\\Projects\\Game_Car_Production\\temp\\TexturePacker\\texture\\Game.pac/Game-2.png",
+      "name": "Game-2.png",
+      "size": "512x512"
+    },
+    {
+      "path": "C:\\Projects\\Game_Car_Production\\temp\\TexturePacker\\texture\\Game.pac/Game-3.png",
+      "name": "Game-3.png",
+      "size": "512x512"
+    },
+    {
+      "path": "C:\\Projects\\Game_Car_Production\\temp\\TexturePacker\\texture\\Game.pac/Game-4.png",
+      "name": "Game-4.png",
+      "size": "512x512"
+    },
+    {
+      "path": "C:\\Projects\\Game_Car_Production\\temp\\TexturePacker\\texture\\Game.pac/Game-5.png",
+      "name": "Game-5.png",
+      "size": "256x512"
+    }
+  ],
+  "unpackedTextures": [
+    {
+      "path": "C:/Projects/Game_Car_Production/assets/texture/back_ground.png",
+      "name": "back_ground.png",
+      "size": "5x1338"
+    },
+    {
+      "path": "C:/Projects/Game_Car_Production/assets/texture/buttom_frame.png",
+      "name": "buttom_frame.png",
+      "size": "754x26"
+    },
+    {
+      "path": "C:/Projects/Game_Car_Production/assets/texture/logo-inner.png",
+      "name": "logo-inner.png",
+      "size": "754x176"
+    },
+    {
+      "path": "C:/Projects/Game_Car_Production/assets/texture/logo.png",
+      "name": "logo.png",
+      "size": "754x133"
+    },
+    {
+      "path": "C:/Projects/Game_Car_Production/assets/texture/title_trend.png",
+      "name": "title_trend.png",
+      "size": "664x54"
+    },
+    {
+      "path": "C:/Projects/Game_Car_Production/assets/texture/zhuangshi.png",
+      "name": "zhuangshi.png",
+      "size": "539x192"
+    }
+  ]
+}

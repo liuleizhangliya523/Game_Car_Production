@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "investedbg",
+    "texture": "019001d6-e97e-44de-a44c-10ad0b0c55d1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      118,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      118,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

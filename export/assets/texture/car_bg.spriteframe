@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "car_bg",
+    "texture": "assets/texture/Game-1.png",
+    "rect": [
+      2,
+      408,
+      120,
+      170
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      170
+    ]
+  }
+}

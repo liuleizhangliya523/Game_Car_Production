@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "market_car",
+    "texture": "2eb2beea-46bd-4305-851b-107eac9f6cfe",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      140,
+      99
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      99
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

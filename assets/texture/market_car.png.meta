@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2eb2beea-46bd-4305-851b-107eac9f6cfe",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "market_car": {
+      "ver": "1.0.3",
+      "uuid": "3f598a4e-5402-4121-82a4-37a77d3ad7d4",
+      "rawTextureUuid": "2eb2beea-46bd-4305-851b-107eac9f6cfe",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 140,
+      "height": 99,
+      "rawWidth": 140,
+      "rawHeight": 99,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,601 @@
+window._CCSettings = {
+    designWidth: 750,
+    designHeight: 1334,
+    groupList: [
+        "default"
+    ],
+    collisionMatrix: [
+        [
+            true
+        ]
+    ],
+    platform: "web-desktop",
+    scripts: [
+        {
+            deps: {
+                "./data/ConstData": 2,
+                "./data/GlobalGameData": 3,
+                "./tools/Tools": 10
+            },
+            file: "preview-scripts/assets/scrips/activity.js"
+        },
+        {
+            deps: {
+                "./data/ConstData": 2,
+                "./data/GlobalGameData": 3,
+                "./tools/Tools": 10
+            },
+            file: "preview-scripts/assets/scrips/car_btn.js"
+        },
+        {
+            deps: {},
+            file: "preview-scripts/assets/scrips/data/ConstData.js"
+        },
+        {
+            deps: {},
+            file: "preview-scripts/assets/scrips/data/GlobalGameData.js"
+        },
+        {
+            deps: {
+                "./data/ConstData": 2,
+                "./data/GlobalGameData": 3,
+                "./tools/Tools": 10
+            },
+            file: "preview-scripts/assets/scrips/game.js"
+        },
+        {
+            deps: {
+                "./data/ConstData": 2,
+                "./data/GlobalGameData": 3,
+                "./tools/Tools": 10
+            },
+            file: "preview-scripts/assets/scrips/guide.js"
+        },
+        {
+            deps: {},
+            file: "preview-scripts/assets/scrips/help_layout.js"
+        },
+        {
+            deps: {
+                "./data/GlobalGameData": 3
+            },
+            file: "preview-scripts/assets/scrips/notice.js"
+        },
+        {
+            deps: {},
+            file: "preview-scripts/assets/scrips/record_item.js"
+        },
+        {
+            deps: {
+                "./data/GlobalGameData": 3,
+                "./tools/Tools": 10
+            },
+            file: "preview-scripts/assets/scrips/record_layout.js"
+        },
+        {
+            deps: {
+                "./../data/ConstData": 2
+            },
+            file: "preview-scripts/assets/scrips/tools/Tools.js"
+        },
+        {
+            deps: {},
+            file: "preview-scripts/assets/scrips/tools/gameTips.js"
+        }
+    ],
+    rawAssets: {
+        assets: {
+            "846810a9-2d61-459a-9a19-fa301233f357": [
+                "backGround/beijing.png",
+                "cc.Texture2D"
+            ],
+            "932aa618-b140-4c8c-ae5c-db4c2f43b55d": [
+                "music/BG.mp3",
+                "cc.AudioClip"
+            ],
+            "e64d8838-8f08-4661-9d07-fdadee632aff": [
+                "music/Combo.mp3",
+                "cc.AudioClip"
+            ],
+            "3c870b3e-ec89-4732-bbe0-c7958236fe4e": [
+                "music/button_click.mp3",
+                "cc.AudioClip"
+            ],
+            "b002f4bd-3e91-4afe-92a5-cd2d0d501b44": [
+                "music/hit_target.mp3",
+                "cc.AudioClip"
+            ],
+            "4557453b-8387-4f13-929e-b8b7d1978763": [
+                "music/loop.mp3",
+                "cc.AudioClip"
+            ],
+            "06c6024b-10e6-47ae-b64c-8be7e56d2879": [
+                "resources/gameTips.prefab",
+                "cc.Prefab"
+            ],
+            "86cc3559-6993-48e1-9c4e-ed3e3a2128ad": [
+                "resources/globalTip.prefab",
+                "cc.Prefab"
+            ],
+            "628e98d0-cbc7-42e9-bcc5-cadde668f60d": [
+                "resources/record_layout.prefab",
+                "cc.Prefab"
+            ],
+            "fb215701-95ab-489e-85d1-47b0e542f5bd": [
+                "texture/4andmore.png",
+                "cc.Texture2D"
+            ],
+            "47086771-75f3-43ea-9b94-c1ec72e69a9f": [
+                "texture/activity_flag.png",
+                "cc.Texture2D"
+            ],
+            "d8eee720-2e3e-4add-b0ee-82be1ea772b1": [
+                "texture/auto_1.png",
+                "cc.Texture2D"
+            ],
+            "88f7b767-0c86-4cb6-9f02-0a08ed722bcb": [
+                "texture/auto_2.png",
+                "cc.Texture2D"
+            ],
+            "b828aae3-1eee-4d89-bc4a-c893909db1e4": [
+                "texture/back_ground.png",
+                "cc.Texture2D"
+            ],
+            "56db39ed-f18f-4a40-b868-2135dcb9bc80": [
+                "texture/baise.png",
+                "cc.Texture2D"
+            ],
+            "075b2580-f4b0-493a-83de-9403a023155c": [
+                "texture/btn-back.png",
+                "cc.Texture2D"
+            ],
+            "7407188e-db12-4c6f-9256-638378fe541b": [
+                "texture/btn_1.png",
+                "cc.Texture2D"
+            ],
+            "fd794d26-92e1-4568-8e8e-29bf92e4b269": [
+                "texture/btn_2.png",
+                "cc.Texture2D"
+            ],
+            "b112dc7e-8703-4a6e-b3af-1e870e93a0a4": [
+                "texture/btn_activity.png",
+                "cc.Texture2D"
+            ],
+            "3d3ed662-2cd7-4540-af16-64ba083fbbce": [
+                "texture/btn_blue.png",
+                "cc.Texture2D"
+            ],
+            "440c9cc8-7b86-4951-b050-925accdc550e": [
+                "texture/btn_help.png",
+                "cc.Texture2D"
+            ],
+            "8ee4ff9b-6628-4155-aacf-4e6d02b29a4e": [
+                "texture/btn_more.png",
+                "cc.Texture2D"
+            ],
+            "a3d39b57-9efd-436d-93de-c78f28e675a2": [
+                "texture/btn_revoke.png",
+                "cc.Texture2D"
+            ],
+            "80e40ff3-c99b-4049-85e6-7b18c0bc64af": [
+                "texture/buttom_frame.png",
+                "cc.Texture2D"
+            ],
+            "f4786f9b-8d70-44d2-a23a-a3ad47099f72": [
+                "texture/buttom_scale9.png",
+                "cc.Texture2D"
+            ],
+            "bfa38b75-b7db-4a2b-baac-3a27df35b83e": [
+                "texture/car_1.png",
+                "cc.Texture2D"
+            ],
+            "c64a29c8-b359-474b-bdad-83ffc4430792": [
+                "texture/car_10.png",
+                "cc.Texture2D"
+            ],
+            "64012496-ae8c-42aa-a672-3a34e3e69b84": [
+                "texture/car_11.png",
+                "cc.Texture2D"
+            ],
+            "ebfa2b1f-c792-4146-bfeb-8d5ac8b89636": [
+                "texture/car_12.png",
+                "cc.Texture2D"
+            ],
+            "8724a654-9105-4a82-815f-ebc11cacf11d": [
+                "texture/car_2.png",
+                "cc.Texture2D"
+            ],
+            "3bc0bfd5-61f8-4636-9be5-bd5d3d08f690": [
+                "texture/car_3.png",
+                "cc.Texture2D"
+            ],
+            "ea90470a-e647-4ae5-9e4f-7cc7be84f475": [
+                "texture/car_4.png",
+                "cc.Texture2D"
+            ],
+            "86f14247-662c-4dda-85d9-5ad1f60046d3": [
+                "texture/car_5.png",
+                "cc.Texture2D"
+            ],
+            "0eb05526-5f71-4cab-8b6d-c7c6dd767fab": [
+                "texture/car_6.png",
+                "cc.Texture2D"
+            ],
+            "16d6883d-7c53-4c66-b54f-f71b8f95d0c8": [
+                "texture/car_7.png",
+                "cc.Texture2D"
+            ],
+            "be2d95e7-4f81-437a-8a32-7ecfb50d10a6": [
+                "texture/car_8.png",
+                "cc.Texture2D"
+            ],
+            "c4fe675f-f335-4a71-ac61-33b625f63ca3": [
+                "texture/car_9.png",
+                "cc.Texture2D"
+            ],
+            "bfc6f488-cc79-464c-912f-447f3c54eb10": [
+                "texture/car_bg.png",
+                "cc.Texture2D"
+            ],
+            "052470d6-1ce0-43b7-8a9e-03769d6875ad": [
+                "texture/coin.png",
+                "cc.Texture2D"
+            ],
+            "0072bfbd-0382-4d89-a075-cee6a17e2dc5": [
+                "texture/coin_lock.png",
+                "cc.Texture2D"
+            ],
+            "fbc68321-5517-45bf-9432-ee7bb469df7c": [
+                "texture/event.png",
+                "cc.Texture2D"
+            ],
+            "cfec3f44-ba8b-448f-bf1e-edd824e7291c": [
+                "texture/eventbg.png",
+                "cc.Texture2D"
+            ],
+            "edc45fe5-d2a9-42d9-9e6e-da58aefee66a": [
+                "texture/fitst.png",
+                "cc.Texture2D"
+            ],
+            "7cc1b65d-1553-4e3a-a147-1478530ae454": [
+                "texture/heavyRed.png",
+                "cc.Texture2D"
+            ],
+            "856fb4f3-bfbf-46c8-8f7f-3ccaf777103f": [
+                "texture/hit.png",
+                "cc.Texture2D"
+            ],
+            "8d363fae-51fb-42ba-8c8d-32c43a7e94f1": [
+                "texture/hongse.png",
+                "cc.Texture2D"
+            ],
+            "019001d6-e97e-44de-a44c-10ad0b0c55d1": [
+                "texture/investedbg.png",
+                "cc.Texture2D"
+            ],
+            "a430063a-fffe-4072-a2ee-c2059f9e10d5": [
+                "texture/investment_0.png",
+                "cc.Texture2D"
+            ],
+            "e135b958-71e7-4c30-9eee-59c2eb061de0": [
+                "texture/investment_1.png",
+                "cc.Texture2D"
+            ],
+            "298b6ec2-6a00-4025-b239-e5c933d49768": [
+                "texture/investment_2.png",
+                "cc.Texture2D"
+            ],
+            "4b2511ac-21a9-4fe0-b32a-ed5470eda527": [
+                "texture/lastweek.png",
+                "cc.Texture2D"
+            ],
+            "503119c6-fed0-49cc-a850-0317bf1068dc": [
+                "texture/leftbg.png",
+                "cc.Texture2D"
+            ],
+            "934ff146-e8a9-4280-a9b7-d02f0a794252": [
+                "texture/light.png",
+                "cc.Texture2D"
+            ],
+            "bcffe2a6-765e-4873-9f98-3d454f28baca": [
+                "texture/lightRed.png",
+                "cc.Texture2D"
+            ],
+            "6d4e431e-a1a6-4585-90a4-10cd2e980f8b": [
+                "texture/lightRed_2.png",
+                "cc.Texture2D"
+            ],
+            "55364346-f898-478d-a7e3-029af4f77aff": [
+                "texture/line.png",
+                "cc.Texture2D"
+            ],
+            "f73b9a24-257f-47ef-8809-4b4344107eec": [
+                "texture/logo.png",
+                "cc.Texture2D"
+            ],
+            "6083d056-ff94-41df-9380-071ee0faa21f": [
+                "texture/manual_1.png",
+                "cc.Texture2D"
+            ],
+            "02dcb90d-6b0c-4d16-be78-bf43b942cc5f": [
+                "texture/manual_2.png",
+                "cc.Texture2D"
+            ],
+            "2eb2beea-46bd-4305-851b-107eac9f6cfe": [
+                "texture/market_car.png",
+                "cc.Texture2D"
+            ],
+            "a75da803-da37-4a98-93c0-172d0e2717c3": [
+                "texture/market_suv.png",
+                "cc.Texture2D"
+            ],
+            "81fd555a-ca19-44a9-996d-df6a17167f84": [
+                "texture/morebg.png",
+                "cc.Texture2D"
+            ],
+            "d694f5cb-249c-4b16-bf97-95b5be0d4d1a": [
+                "texture/noticeBG.png",
+                "cc.Texture2D"
+            ],
+            "6baa185f-c378-4297-834e-6b3cc211adce": [
+                "texture/notice_bg_bottom.png",
+                "cc.Texture2D"
+            ],
+            "19cb6dd0-072c-43da-850e-ea5597a72a9f": [
+                "texture/notice_bg_top.png",
+                "cc.Texture2D"
+            ],
+            "09a033d0-e060-46b3-86c3-88f4bd757073": [
+                "texture/num.png",
+                "cc.Texture2D"
+            ],
+            "ce61e472-c9c7-4f90-a58d-9de7ba053889": [
+                "texture/odds.png",
+                "cc.Texture2D"
+            ],
+            "29f06df1-1142-4c63-8319-85ed8f55bee0": [
+                "texture/progress_bar_bg.png",
+                "cc.Texture2D"
+            ],
+            "80d6bbcd-39fd-4ee0-a92e-49bcec923e94": [
+                "texture/progress_bar_fill.png",
+                "cc.Texture2D"
+            ],
+            "94039714-30ec-4191-b11e-35e553290dda": [
+                "texture/protect.png",
+                "cc.Texture2D"
+            ],
+            "b8edc236-1e18-441a-98b6-bc7ce626f563": [
+                "texture/protectbig.png",
+                "cc.Texture2D"
+            ],
+            "c714dce3-eaea-486e-a680-e77240bbc865": [
+                "texture/red.png",
+                "cc.Texture2D"
+            ],
+            "da554a23-409d-4131-bc46-c61154875475": [
+                "texture/rightbg.png",
+                "cc.Texture2D"
+            ],
+            "e4118286-05d9-44ee-8d44-48f13fef2062": [
+                "texture/rightbg_2.png",
+                "cc.Texture2D"
+            ],
+            "3cb7bd73-2be7-47c7-a47e-93ad6cb2a14e": [
+                "texture/rightbg_3.png",
+                "cc.Texture2D"
+            ],
+            "9ed5a260-0ea0-461b-b6ab-906b7bf92324": [
+                "texture/second.png",
+                "cc.Texture2D"
+            ],
+            "caca5a85-5529-4064-9beb-da344e221e85": [
+                "texture/select.png",
+                "cc.Texture2D"
+            ],
+            "403d3701-56b1-4089-9e0d-60248cedb766": [
+                "texture/step_1.png",
+                "cc.Texture2D"
+            ],
+            "d9e7d8bf-dc91-4bc6-9577-ffdd6b1b0c54": [
+                "texture/step_2.png",
+                "cc.Texture2D"
+            ],
+            "af4606e2-c34e-4684-90f6-8a599320d6ce": [
+                "texture/step_3.png",
+                "cc.Texture2D"
+            ],
+            "c75b14e5-d44b-437a-9cb8-ec61a157078a": [
+                "texture/step_4.png",
+                "cc.Texture2D"
+            ],
+            "e54fa70f-106f-46ea-b666-c2b56b14e635": [
+                "texture/tabbar.png",
+                "cc.Texture2D"
+            ],
+            "dbcaab6b-baa5-463e-8544-9f65410ac14c": [
+                "texture/third.png",
+                "cc.Texture2D"
+            ],
+            "f8639512-a2fe-4734-92ac-353a6d34a879": [
+                "texture/time.png",
+                "cc.Texture2D"
+            ],
+            "e9cc1443-3ad3-4e4b-b107-01963e5c99a7": [
+                "texture/title.png",
+                "cc.Texture2D"
+            ],
+            "db5076a7-876c-4856-8205-2ee45ed270a7": [
+                "texture/title_trend.png",
+                "cc.Texture2D"
+            ],
+            "643841ac-7e29-4042-aa9f-ebe4a1b9a3c0": [
+                "texture/topbar.png",
+                "cc.Texture2D"
+            ],
+            "33d28963-3bda-4eae-9766-b5776f9e0595": [
+                "texture/topbg.png",
+                "cc.Texture2D"
+            ],
+            "cddb745e-ebd6-487a-83ad-d2d8c55b57b2": [
+                "texture/touzi.png",
+                "cc.Texture2D"
+            ],
+            "9cf9b248-062d-47fe-a085-02d7c574e496": [
+                "texture/trend_bg.png",
+                "cc.Texture2D"
+            ],
+            "2c2aa702-6f07-4775-b619-59c91731db1d": [
+                "texture/ucoin.png",
+                "cc.Texture2D"
+            ],
+            "bd472244-45b4-47d5-9b52-4d1e3c3c214b": [
+                "texture/wenzibg.png",
+                "cc.Texture2D"
+            ],
+            "bca8188a-1228-46c7-af49-f6b746ff8844": [
+                "texture/white.png",
+                "cc.Texture2D"
+            ],
+            "a75d6caf-ec28-48bb-b4f2-ea057b73e95e": [
+                "texture/white_bg.png",
+                "cc.Texture2D"
+            ],
+            "b7754d4e-00a7-4abc-a8a2-4ae77d1334d2": [
+                "texture/window_car.png",
+                "cc.Texture2D"
+            ],
+            "9d0ea088-4099-42b4-ad8b-301328892b3d": [
+                "texture/window_suv.png",
+                "cc.Texture2D"
+            ],
+            "321ade33-6816-4f12-ba51-e5af74e1b901": [
+                "texture/windowbg.png",
+                "cc.Texture2D"
+            ],
+            "5c6847f6-231a-41b4-8f2c-a5f4f2582cd7": [
+                "texture/yellow.png",
+                "cc.Texture2D"
+            ],
+            "81c54bff-a440-46a6-88e7-ebba1fe1e479": [
+                "texture/zhuangshi.png",
+                "cc.Texture2D"
+            ]
+        },
+        internal: {
+            "71561142-4c83-4933-afca-cb7a17f67053": [
+                "image/default_btn_disabled.png",
+                "cc.Texture2D"
+            ],
+            "e851e89b-faa2-4484-bea6-5c01dd9f06e2": [
+                "image/default_btn_normal.png",
+                "cc.Texture2D"
+            ],
+            "b43ff3c2-02bb-4874-81f7-f2dea6970f18": [
+                "image/default_btn_pressed.png",
+                "cc.Texture2D"
+            ],
+            "d81ec8ad-247c-4e62-aa3c-d35c4193c7af": [
+                "image/default_panel.png",
+                "cc.Texture2D"
+            ],
+            "cfef78f1-c8df-49b7-8ed0-4c953ace2621": [
+                "image/default_progressbar.png",
+                "cc.Texture2D"
+            ],
+            "99170b0b-d210-46f1-b213-7d9e3f23098a": [
+                "image/default_progressbar_bg.png",
+                "cc.Texture2D"
+            ],
+            "567dcd80-8bf4-4535-8a5a-313f1caf078a": [
+                "image/default_radio_button_off.png",
+                "cc.Texture2D"
+            ],
+            "9d60001f-b5f4-4726-a629-2659e3ded0b8": [
+                "image/default_radio_button_on.png",
+                "cc.Texture2D"
+            ],
+            "0291c134-b3da-4098-b7b5-e397edbe947f": [
+                "image/default_scrollbar.png",
+                "cc.Texture2D"
+            ],
+            "4bab67cb-18e6-4099-b840-355f0473f890": [
+                "image/default_scrollbar_bg.png",
+                "cc.Texture2D"
+            ],
+            "d6d3ca85-4681-47c1-b5dd-d036a9d39ea2": [
+                "image/default_scrollbar_vertical.png",
+                "cc.Texture2D"
+            ],
+            "617323dd-11f4-4dd3-8eec-0caf6b3b45b9": [
+                "image/default_scrollbar_vertical_bg.png",
+                "cc.Texture2D"
+            ],
+            "6e056173-d285-473c-b206-40a7fff5386e": [
+                "image/default_sprite.png",
+                "cc.Texture2D"
+            ],
+            "0275e94c-56a7-410f-bd1a-fc7483f7d14a": [
+                "image/default_sprite_splash.png",
+                "cc.Texture2D"
+            ],
+            "73a0903d-d80e-4e3c-aa67-f999543c08f5": [
+                "image/default_toggle_checkmark.png",
+                "cc.Texture2D"
+            ],
+            "c25b9d50-c8fc-4d27-beeb-6e7c1f2e5c0f": [
+                "image/default_toggle_disabled.png",
+                "cc.Texture2D"
+            ],
+            "d29077ba-1627-4a72-9579-7b56a235340c": [
+                "image/default_toggle_normal.png",
+                "cc.Texture2D"
+            ],
+            "b181c1e4-0a72-4a91-bfb0-ae6f36ca60bd": [
+                "image/default_toggle_pressed.png",
+                "cc.Texture2D"
+            ],
+            "2be36297-9abb-4fee-8049-9ed5e271da8a": [
+                "misc/default_video.mp4",
+                "cc.RawAsset"
+            ],
+            "b8223619-7e38-47c4-841f-9160c232495a": [
+                "obsolete/atom.plist",
+                "cc.ParticleAsset"
+            ],
+            "b2687ac4-099e-403c-a192-ff477686f4f5": [
+                "particle/atom.plist",
+                "cc.ParticleAsset"
+            ]
+        }
+    },
+    jsList: [
+        "assets/scrips/tools/Tips.js",
+        "assets/scrips/tools/Tips_2.js",
+        "assets/scrips/tools/jWeChat-1.0.0.js"
+    ],
+    launchScene: "db://assets/scenes/activity.fire",
+    scenes: [
+        {
+            url: "db://assets/scenes/activity.fire",
+            uuid: "26bf83ce-7666-4807-8346-9d75a92f658e"
+        },
+        {
+            url: "db://assets/scenes/game.fire",
+            uuid: "7e8816b5-4d08-4397-a16b-5597be414b5d"
+        },
+        {
+            url: "db://assets/scenes/guide.fire",
+            uuid: "2fbb8319-8b66-487e-bce4-5b3e12bec5be"
+        },
+        {
+            url: "db://assets/scenes/help.fire",
+            uuid: "5baeeea6-8c50-4967-b5e4-30c3a668a7b2"
+        },
+        {
+            url: "db://assets/scenes/notice.fire",
+            uuid: "d31b8c2f-b2d3-4332-b858-092b9359cd53"
+        }
+    ],
+    debug: true
+};

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tabbar",
+    "texture": "e54fa70f-106f-46ea-b666-c2b56b14e635",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      375,
+      40
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      375,
+      40
+    ],
+    "capInsets": [
+      101,
+      28,
+      100,
+      7
+    ]
+  }
+}

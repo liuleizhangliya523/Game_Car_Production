@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "title_trend",
+    "texture": "db5076a7-876c-4856-8205-2ee45ed270a7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      660,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      660,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_revoke",
+    "texture": "assets/texture/Game-1.png",
+    "rect": [
+      206,
+      446,
+      90,
+      80
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      80
+    ]
+  }
+}

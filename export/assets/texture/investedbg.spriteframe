@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "investedbg",
+    "texture": "assets/texture/Game-1.png",
+    "rect": [
+      854,
+      105,
+      120,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      70
+    ]
+  }
+}

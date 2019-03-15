@@ -1,0 +1,24 @@
+{
+   "net": {
+      "http_server_properties": {
+         "servers": [ {
+            "https://res.wx.qq.com": {
+               "supports_spdy": true
+            }
+         }, {
+            "https://chrome-devtools-frontend.appspot.com": {
+               "supports_spdy": true
+            }
+         }, {
+            "https://game.juxinbox.com": {
+               "supports_spdy": true
+            }
+         }, {
+            "https://cdn.weather.hao.360.cn": {
+               "supports_spdy": true
+            }
+         } ],
+         "version": 5
+      }
+   }
+}

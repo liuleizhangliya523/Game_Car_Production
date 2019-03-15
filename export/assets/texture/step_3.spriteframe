@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "step_3",
+    "texture": "assets/texture/Game-1.png",
+    "rect": [
+      462,
+      56,
+      320,
+      170
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      320,
+      170
+    ],
+    "rotated": 1
+  }
+}

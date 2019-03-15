@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "0072bfbd-0382-4d89-a075-cee6a17e2dc5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "coin_lock": {
+      "ver": "1.0.3",
+      "uuid": "ff678ec0-23b7-4628-858c-c1982108c797",
+      "rawTextureUuid": "0072bfbd-0382-4d89-a075-cee6a17e2dc5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 37,
+      "height": 40,
+      "rawWidth": 37,
+      "rawHeight": 40,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

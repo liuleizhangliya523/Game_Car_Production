@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "logo",
+    "texture": "assets/texture/Game-1.png",
+    "rect": [
+      2,
+      56,
+      456,
+      185
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      456,
+      185
+    ]
+  }
+}

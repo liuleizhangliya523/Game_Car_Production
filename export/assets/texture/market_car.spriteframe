@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "market_car",
+    "texture": "assets/texture/Game-1.png",
+    "rect": [
+      854,
+      2,
+      140,
+      99
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      99
+    ]
+  }
+}

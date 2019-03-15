@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "coin_lock",
+    "texture": "assets/texture/Game-1.png",
+    "rect": [
+      978,
+      105,
+      30,
+      30
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      30,
+      30
+    ]
+  }
+}

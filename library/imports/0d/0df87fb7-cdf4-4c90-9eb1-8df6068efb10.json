@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ucoin",
+    "texture": "2c2aa702-6f07-4775-b619-59c91731db1d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      37,
+      39
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      37,
+      39
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

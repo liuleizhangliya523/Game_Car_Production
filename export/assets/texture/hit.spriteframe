@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hit",
+    "texture": "assets/texture/Game-1.png",
+    "rect": [
+      230,
+      530,
+      46,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      46,
+      45
+    ]
+  }
+}

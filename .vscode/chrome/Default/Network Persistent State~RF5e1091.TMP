@@ -1,0 +1,22 @@
+{
+   "SDCH": {
+      "dictionaries": {
+
+      },
+      "version": 2
+   },
+   "net": {
+      "http_server_properties": {
+         "servers": [ {
+            "https://s.ssl.qhres.com": {
+               "supports_spdy": true
+            }
+         }, {
+            "https://p.ssl.qhimg.com": {
+               "supports_spdy": true
+            }
+         } ],
+         "version": 5
+      }
+   }
+}

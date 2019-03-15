@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hongse",
+    "texture": "8d363fae-51fb-42ba-8c8d-32c43a7e94f1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      327,
+      87
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      327,
+      87
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

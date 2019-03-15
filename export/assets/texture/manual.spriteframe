@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "manual",
+    "texture": "assets/texture/Game-1.png",
+    "rect": [
+      663,
+      502,
+      120,
+      108
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      120,
+      108
+    ]
+  }
+}

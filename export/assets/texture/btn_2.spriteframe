@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_2",
+    "texture": "assets/texture/Game-1.png",
+    "rect": [
+      280,
+      530,
+      70,
+      70
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      70
+    ],
+    "capInsets": [
+      20,
+      20,
+      20,
+      20
+    ]
+  }
+}

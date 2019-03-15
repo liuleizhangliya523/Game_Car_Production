@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "protectbig",
+    "texture": "b8edc236-1e18-441a-98b6-bc7ce626f563",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      83,
+      99
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      83,
+      99
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

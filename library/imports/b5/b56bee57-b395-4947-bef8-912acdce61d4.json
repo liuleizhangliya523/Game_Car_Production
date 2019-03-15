@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_revoke",
+    "texture": "a3d39b57-9efd-436d-93de-c78f28e675a2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      100,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      100,
+      90
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

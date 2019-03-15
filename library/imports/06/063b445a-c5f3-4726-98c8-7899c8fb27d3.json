@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "window_suv",
+    "texture": "9d0ea088-4099-42b4-ad8b-301328892b3d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

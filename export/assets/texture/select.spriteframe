@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "select",
+    "texture": "assets/texture/Game-1.png",
+    "rect": [
+      636,
+      56,
+      31,
+      24
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      31,
+      24
+    ],
+    "rotated": 1
+  }
+}
